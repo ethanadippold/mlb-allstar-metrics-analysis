@@ -33,6 +33,3 @@ Player-season records follow Lahman Baseball Database conventions (`playerID`, `
 - `Cleaned MLB Stats Dataset` is the analysis-ready table — start there for any new query or pivot.
 - The pivot tables run off a saved pivot cache, so refresh them (Data → Refresh All) after any edits to the source data.
 - Position codes follow the standard Lahman numbering (1 = P, 2 = C, 3 = 1B, 4 = 2B, 5 = 3B, 6 = SS, 7-9 = OF, 10 = DH).
-
-
-ReadMe was created by Claude Sonnet 5
